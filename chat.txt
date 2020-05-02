@@ -1,35 +1,401 @@
-[2020-02-28, 2:55:52 AM] User 1: ‎Messages to this chat and calls are now secured with end-to-end encryption.
-[2020-02-28, 2:55:53 AM] User 1: From outside came the occasional cry of a night-bird
-[2020-02-28, 2:55:53 AM] User 2: and lool lool lool lool once at our very window a long drawn catlike whine 😯😯😯
-[2020-02-28, 2:56:07 AM] User 2: \ which told us that the cheetah was indeed at liberty.
-[2020-02-28, 2:56:08 AM] User 2: hah lmaoooo wooowww
-[2020-02-28, 2:56:27 AM] User 1: 😯 Far away we could hear the deep tones of the parish clock ☺
-[2020-02-29, 5:56:40 PM] User 2: which boomed out every quarter of an hour 😯
-[2020-02-29, 5:58:52 PM] User 1: How long they seemed, those quarters! 😯
-[2020-02-29, 6:00:23 PM] User 1: ☺ Twelve struck,
-and one and two and three,
-and still we sat waiting silently for whatever might befall..
-[2020-02-29, 6:15:12 PM] User 1: ‎video omitted
-[2020-03-01, 3:02:42 AM] User 1: Suddenly there was the momentary gleam of a light up in the direction of the ventilator ☹️
-[2020-03-01, 3:14:28 AM] User 2: , which vanished immediately 😄
-[2020-03-01, 3:35:29 AM] User 2: but was succeeded by a strong smell of burning oil and heated metal.
-[2020-03-01, 3:45:42 AM] User 2: Someone in the next room had lit a dark-lantern. 😭
-[2020-03-01, 3:56:44 AM] User 2: 😭
-[2020-03-01, 4:09:48 AM] User 1: I heard a gentle sound of movement, 😆
-[2020-03-01, 4:09:56 AM] User 1: and then all was silent once more, though the smell grew stronger.  👀
-[2020-03-01, 5:10:08 AM] User 1: For half an hour I sat with straining ears. 😯
-[2020-03-02, 10:10:29 PM] User 1: Then suddenly another sound became audible 😯
-[2020-03-02, 10:15:24 PM] User 1: ha hah haha lmao lmaooo lmaoo 😯
-[2020-03-02, 10:20:32 PM] User 2: --a very gentle, soothing sound, like that of a small jet of steam escaping continually from a kettle
-[2020-03-07, 12:45:42 AM] User 2: The instant that we heard it, Holmes sprang from the bed 😭
-[2020-03-07, 12:56:44 AM] User 2: 😭
-[2020-03-07, 12:09:48 AM] User 1: struck a match, and lashed furiously with his cane at the bell-pull. 😆
-[2020-03-07, 12:09:56 AM] User 1: 😯👀
-[2020-03-08, 05:10:08 PM] User 1: "You see it, Watson?" he yelled. "You see it?"
-[2020-03-08, 05:10:29 PM] User 1: But I saw nothing lmaoo. 😯
-[2020-03-08, 05:15:24 PM] User 1: ‎image omitted
-[2020-03-08, 05:20:32 PM] User 2: At the moment when Holmes struck the light I heard a low, clear whistle
-[2020-03-08, 05:45:56 PM] User 1: lool but the sudden glare lool lool flashing into my weary eyes lool 
-made it impossible for me to tell what it was at which my friend lashed so savagely.
-[2020-03-08, 05:50:34 PM] User 2: I could, however, see that his face was deadly pale and filled with horror and loathing 😭😭😭
-[2020-03-08, 05:52:12 PM] User 2: https://towardsdatascience.com/an-introduction-to-tweettokenizer-for-processing-tweets-9879389f8fe7
+[2018-12-21, 2:55:51 AM] User 1: ‎Messages to this chat and calls are now secured with end-to-end encryption.
+[2018-12-21, 2:55:51 AM] User 1: From outside came the occasional cry of a night-bird
+[2018-12-21, 2:56:06 AM] User 2: and lool lool lool lool once at our very window a long drawn catlike whine 😯😯😯
+[2018-12-21, 2:56:08 AM] User 2: \ which told us that the cheetah was indeed at liberty.
+[2018-12-21, 2:56:26 AM] User 2: hah lmaoooo wooowww
+[2018-12-21, 2:56:40 AM] User 1: 😯 Far away we could hear the deep tones of the parish clock ☺
+[2018-12-21, 2:58:51 AM] User 2: which boomed out every quarter of an hour 😯
+[2018-12-21, 3:00:22 AM] User 1: How long they seemed, those quarters! 😯
+[2018-12-21, 3:00:22 AM] User 1: ☺ Twelve struck,
+and one and two and three,  
+and still we sat waiting silently for whatever might befall..  
+‎[2018-12-21, 3:08:29 AM] User 1: ‎video omitted
+[2018-12-21, 3:08:42 AM] User 1: Suddenly there was the momentary gleam of a light up in the direction of the ventilator ☹️
+[2018-12-21, 3:08:43 AM] User 2: , which vanished immediately 😄
+[2018-12-21, 3:09:47 AM] User 2: but was succeeded by a strong smell of burning oil and heated metal.
+[2018-12-21, 3:09:55 AM] User 2: Someone in the next room had lit a dark-lantern. 😭
+[2018-12-21, 3:10:07 AM] User 2: 😭
+[2018-12-21, 3:10:21 AM] User 1: I heard a gentle sound of movement, 😆
+[2018-12-21, 3:10:23 AM] User 1: and then all was silent once more, though the smell grew stronger.  👀
+[2018-12-21, 3:19:32 AM] User 1: For half an hour I sat with straining ears. 😯
+[2018-12-21, 3:19:50 AM] User 1: Then suddenly another sound became audible 😯
+[2018-12-21, 3:20:01 AM] User 1: ha hah haha lmao lmaooo lmaoo 😯
+[2018-12-21, 3:20:24 AM] User 2: --a very gentle, soothing sound, like that of a small jet of steam escaping continually from a kettle
+[2018-12-21, 3:20:35 AM] User 2: The instant that we heard it, Holmes sprang from the bed 😭
+[2018-12-21, 3:20:42 AM] User 2: 😭
+[2018-12-21, 3:20:43 AM] User 1: struck a match, and lashed furiously with his cane at the bell-pull. 😆
+[2018-12-21, 3:22:11 AM] User 1: 😯👀
+[2018-12-21, 3:22:25 AM] User 1: "You see it, Watson?" he yelled. "You see it?"
+[2018-12-21, 3:22:38 AM] User 1: But I saw nothing lmaoo. 😯
+[2018-12-21, 3:22:39 AM] User 1: ‎image omitted
+[2018-12-21, 3:29:03 AM] User 2: At the moment when Holmes struck the light I heard a low, clear whistle
+[2018-12-21, 3:29:12 AM] User 1: lool but the sudden glare lool lool flashing into my weary eyes lool
+made it impossible for me to tell what it was at which my friend lashed so savagely.  
+[2018-12-21, 3:29:13 AM] User 2: I could, however, see that his face was deadly pale and filled with horror and loathing 😭😭😭
+[2018-12-21, 3:48:40 AM] User 2: https://towardsdatascience.com/an-introduction-to-tweettokenizer-for-processing-tweets-9879389f8fe7
+[2018-12-21, 4:03:02 AM] User 1: ‎Messages to this chat and calls are now secured with end-to-end encryption.
+[2018-12-21, 4:03:17 AM] User 1: From outside came the occasional cry of a night-bird
+[2018-12-21, 4:03:31 AM] User 2: and lool lool lool lool once at our very window a long drawn catlike whine 😯😯😯
+[2018-12-21, 4:03:37 AM] User 2: \ which told us that the cheetah was indeed at liberty.
+[2018-12-21, 4:04:23 AM] User 2: hah lmaoooo wooowww
+[2018-12-21, 4:04:33 AM] User 1: 😯 Far away we could hear the deep tones of the parish clock ☺
+[2018-12-21, 4:04:43 AM] User 2: which boomed out every quarter of an hour 😯
+[2018-12-21, 4:04:44 AM] User 1: How long they seemed, those quarters! 😯
+[2018-12-21, 4:15:45 AM] User 1: ☺ Twelve struck,
+[2018-12-21, 4:16:18 AM] User 1: ‎video omitted
+[2018-12-21, 4:16:38 AM] User 1: Suddenly there was the momentary gleam of a light up in the direction of the ventilator ☹️
+[2018-12-21, 4:16:50 AM] User 2: , which vanished immediately 😄
+‎[2018-12-21, 4:17:01 AM] User 2: but was succeeded by a strong smell of burning oil and heated metal.
+[2018-12-21, 4:31:23 AM] User 2: Someone in the next room had lit a dark-lantern. 😭
+[2018-12-21, 4:31:31 AM] User 2: 😭
+[2018-12-21, 4:31:50 AM] User 1: I heard a gentle sound of movement, 😆
+[2018-12-21, 4:34:36 AM] User 1: and then all was silent once more, though the smell grew stronger.  👀
+[2018-12-21, 4:34:45 AM] User 1: For half an hour I sat with straining ears. 😯
+[2018-12-21, 4:34:58 AM] User 1: Then suddenly another sound became audible 😯
+[2018-12-21, 4:34:59 AM] User 1: ha hah haha lmao lmaooo lmaoo 😯
+[2018-12-21, 4:40:37 AM] User 2: --a very gentle, soothing sound, like that of a small jet of steam escaping continually from a kettle
+[2018-12-21, 4:40:46 AM] User 2: The instant that we heard it, Holmes sprang from the bed 😭
+[2018-12-21, 4:40:55 AM] User 2: 😭
+[2018-12-21, 4:40:59 AM] User 1: struck a match, and lashed furiously with his cane at the bell-pull. 😆
+[2018-12-21, 4:43:47 AM] User 1: 😯👀
+[2018-12-21, 4:44:55 AM] User 1: "You see it, Watson?" he yelled. "You see it?"
+[2018-12-21, 4:45:06 AM] User 1: But I saw nothing lmaoo. 😯
+[2018-12-21, 4:47:54 AM] User 1: ‎image omitted
+[2018-12-21, 4:48:06 AM] User 2: At the moment when Holmes struck the light I heard a low, clear whistle
+[2018-12-21, 4:48:10 AM] User 1: lool but the sudden glare lool lool flashing into my weary eyes lool
+[2018-12-21, 4:48:12 AM] User 2: I could, however, see that his face was deadly pale and filled with horror and loathing 😭😭😭
+[2018-12-21, 4:48:14 AM] User 2: https://towardsdatascience.com/an-introduction-to-tweettokenizer-for-processing-tweets-9879389f8fe7
+[2018-12-21, 4:49:16 AM] User 1: ‎Messages to this chat and calls are now secured with end-to-end encryption.
+[2018-12-21, 4:50:08 AM] User 1: From outside came the occasional cry of a night-bird
+[2018-12-21, 4:50:15 AM] User 2: and lool lool lool lool once at our very window a long drawn catlike whine 😯😯😯
+[2018-12-21, 4:50:22 AM] User 2: \ which told us that the cheetah was indeed at liberty.
+[2018-12-21, 4:50:41 AM] User 2: hah lmaoooo wooowww
+[2018-12-21, 4:50:46 AM] User 1: "Very likely not. It is most important, all the same. As to the note, it is important also, or at least the initials are, so I congratulate you again."
+[2018-12-21, 4:50:55 AM] User 1: "I've wasted time enough," said Lestrade, rising. "I believe in hard work and not in sitting by the fire spinning fine theories. Good-day, Mr. Holmes, and we shall see which gets to the bottom of the matter first." He gathered up the garments, thrust them into the bag, and made for the door.
+[2018-12-21, 4:51:02 AM] User 1: "Just one hint to you, Lestrade," drawled Holmes before his rival vanished; "I will tell you the true solution of the matter. Lady St. Simon is a myth. There is not, and there never has been, any such person."
+[2018-12-21, 4:51:15 AM] User 2: Lestrade looked sadly at my companion. Then he turned to me, tapped his forehead three times, shook his head solemnly, and hurried away.
+[2018-12-21, 4:51:40 AM] User 1: He had hardly shut the door behind him when Holmes rose to put on his overcoat. "There is something in what the fellow says about outdoor work," he remarked, "so I think, Watson, that I must leave you to your papers for a little."
+[2018-12-21, 4:52:01 AM] User 2: It was after five o'clock when Sherlock Holmes left me, but I had no time to be lonely, for within an hour there arrived a confectioner's man with a very large flat box. This he unpacked with the help of a youth whom he had brought with him, and presently, to my very great astonishment, a quite epicurean little cold supper began to be laid out upon our humble lodging-house mahogany. There were a couple of brace of cold woodcock, a pheasant, a pâté de foie gras pie with a group of ancient and cobwebby bottles. Having laid out all these luxuries, my two visitors vanished away, like the genii of the Arabian Nights, with no explanation save that the things had been paid for and were ordered to this address.
+[2018-12-21, 4:52:16 AM] User 2: Just before nine o'clock Sherlock Holmes stepped briskly into the room. His features were gravely set, but there was a light in his eye which made me think that he had not been disappointed in his conclusions.
+[2018-12-21, 10:45:01 AM] User 1: "They have laid the supper, then," he said, rubbing his hands.
+[2018-12-21, 10:45:57 AM] User 1: "You seem to expect company. They have laid for five."
+[2018-12-21, 10:46:43 AM] User 2: "Yes, I fancy we may have some company dropping in," said he. "I am surprised that Lord St. Simon has not already arrived. Ha! I fancy that I hear his step now upon the stairs."
+[2018-12-21, 11:17:11 AM] User 2: It was indeed our visitor of the afternoon who came bustling in, dangling his glasses more vigorously than ever, and with a very perturbed expression upon his aristocratic features.
+[2018-12-21, 12:08:42 PM] User 2: "My messenger reached you, then?" asked Holmes.
+[2018-12-21, 12:08:52 PM] User 2: "Yes, and I confess that the contents startled me beyond measure. Have you good authority for what you say?"
+[2018-12-21, 12:14:18 PM] User 2: "The best possible."
+[2018-12-21, 12:15:04 PM] User 1: Lord St. Simon sank into a chair and passed his hand over his forehead.
+[2018-12-21, 12:15:46 PM] User 1: "What will the Duke say," he murmured, "when he hears that one of the family has been subjected to such humiliation?"
+[2018-12-21, 12:16:31 PM] User 2: "It is the purest accident. I cannot allow that there is any humiliation."
+[2018-12-21, 12:19:26 PM] User 1: "Ah, you look on these things from another standpoint."
+[2018-12-21, 12:21:00 PM] User 1: "It was a slight, sir, a public slight," said Lord St. Simon, tapping his fingers upon the table.
+[2018-12-21, 12:32:58 PM] User 1: "You must make allowance for this poor girl, placed in so unprecedented a position."
+[2018-12-21, 12:34:14 PM] User 2: "I will make no allowance. I am very angry indeed, and I have been shamefully used."
+[2018-12-21, 12:34:31 PM] User 2: "I think that I heard a ring," said Holmes. "Yes, there are steps on the landing. If I cannot persuade you to take a lenient view of the matter, Lord St. Simon, I have brought an advocate here who may be more successful." He opened the door and ushered in a lady and gentleman. "Lord St. Simon," said he "allow me to introduce you to Mr. and Mrs. Francis Hay Moulton. The lady, I think, you have already met."
+[2018-12-21, 12:44:27 PM] User 1: At the sight of these newcomers our client had sprung from his seat and stood very erect, with his eyes cast down and his hand thrust into the breast of his frock-coat, a picture of offended dignity. The lady had taken a quick step forward and had held out her hand to him, but he still refused to raise his eyes. It was as well for his resolution, perhaps, for her pleading face was one which it was hard to resist.
+[2018-12-21, 12:45:06 PM] User 1: "You're angry, Robert," said she. "Well, I guess you have every cause to be."
+[2018-12-21, 12:48:23 PM] User 2: "Pray make no apology to me," said Lord St. Simon bitterly.
+[2018-12-21, 12:49:15 PM] User 2: "Oh, yes, I know that I have treated you real bad and that I should have spoken to you before I went; but I was kind of rattled, and from the time when I saw Frank here again I just didn't know what I was doing or saying. I only wonder I didn't fall down and do a faint right there before the altar."
+[2018-12-21, 12:59:39 PM] User 2: "Perhaps, Mrs. Moulton, you would like my friend and me to leave the room while you explain this matter?"
+[2018-12-21, 1:00:11 PM] User 1: "If I may give an opinion," remarked the strange gentleman, "we've had just a little too much secrecy over this business already. For my part, I should like all Europe and America to hear the rights of it." He was a small, wiry, sunburnt man, clean-shaven, with a sharp face and alert manner.
+[2018-12-21, 1:00:47 PM] User 1: "Then I'll tell our story right away," said the lady. "Frank here and I met in '84, in McQuire's camp, near the Rockies, where pa was working a claim. We were engaged to each other, Frank and I; but then one day father struck a rich pocket and made a pile, while poor Frank here had a claim that petered out and came to nothing. The richer pa grew the poorer was Frank; so at last pa wouldn't hear of our engagement lasting any longer, and he took me away to 'Frisco. Frank wouldn't throw up his hand, though; so he followed me there, and he saw me without pa knowing anything about it. It would only have made him mad to know, so we just fixed it all up for ourselves. Frank said that he would go and make his pile, too, and never come back to claim me until he had as much as pa. So then I promised to wait for him to the end of time and pledged myself not to marry anyone else while he lived. 'Why shouldn't we be married right away, then,' said he, 'and then I will feel sure of you; and I won't claim to be your husband until I come back?' Well, we talked it over, and he had fixed it all up so nicely, with a clergyman all ready in waiting, that we just did it right there; and then Frank went off to seek his fortune, and I went back to pa.
+[2018-12-21, 1:00:52 PM] User 1: ‎video omitted
+[2018-12-21, 1:01:02 PM] User 2: Suddenly there was the momentary gleam of a light up in the direction of the ventilator ☹️
+[2018-12-21, 1:01:12 PM] User 1: , which vanished immediately 😄
+[2018-12-21, 1:01:19 PM] User 1: but was succeeded by a strong smell of burning oil and heated metal.
+[2018-12-21, 1:01:57 PM] User 2: Someone in the next room had lit a dark-lantern. 😭
+[2018-12-21, 1:02:11 PM] User 1: 😭
+[2018-12-21, 1:02:16 PM] User 2: I heard a gentle sound of movement, 😆
+[2018-12-21, 1:20:33 PM] User 2: and then all was silent once more, though the smell grew stronger.  👀
+[2018-12-21, 1:20:38 PM] User 1: For half an hour I sat with straining ears. 😯
+[2018-12-21, 2:10:18 PM] User 1: Then suddenly another sound became audible 😯
+[2018-12-21, 2:49:30 PM] User 2: ha hah haha lmao lmaooo lmaoo 😯
+[2018-12-21, 2:49:57 PM] User 2: --a very gentle, soothing sound, like that of a small jet of steam escaping continually from a kettle
+[2018-12-21, 2:49:58 PM] User 2: The instant that we heard it, Holmes sprang from the bed 😭
+[2018-12-21, 2:51:01 PM] User 2: 😭
+[2018-12-21, 2:51:15 PM] User 2: struck a match, and lashed furiously with his cane at the bell-pull. 😆
+[2018-12-21, 2:51:21 PM] User 1: 😯👀
+[2018-12-21, 2:51:23 PM] User 1: "You see it, Watson?" he yelled. "You see it?"
+[2018-12-21, 2:51:53 PM] User 2: But I saw nothing lmaoo. 😯
+[2018-12-21, 2:51:59 PM] User 1: ‎image omitted
+[2018-12-21, 2:55:06 PM] User 1: At the moment when Holmes struck the light I heard a low, clear whistle
+[2018-12-21, 2:56:34 PM] User 1: lool but the sudden glare lool lool flashing into my weary eyes lool
+[2018-12-21, 2:56:41 PM] User 2: 😯👀
+[2018-12-21, 2:56:47 PM] User 2: I could, however, see that his face was deadly pale and filled with horror and loathing 😭😭😭
+[2018-12-21, 2:56:48 PM] User 1: https://towardsdatascience.com/an-introduction-to-tweettokenizer-for-processing-tweets-9879389f8fe7
+[2018-12-21, 2:56:58 PM] User 1: ‎Messages to this chat and calls are now secured with end-to-end encryption.
+[2018-12-21, 2:57:11 PM] User 2: From outside came the occasional cry of a night-bird
+[2018-12-21, 2:57:14 PM] User 2: and lool lool lool lool once at our very window a long drawn catlike whine 😯😯😯
+[2018-12-21, 2:59:35 PM] User 2: \ which told us that the cheetah was indeed at liberty.
+[2018-12-21, 2:59:40 PM] User 1: hah lmaoooo wooowww
+[2018-12-21, 2:59:47 PM] User 1: 😯 Far away we could hear the deep tones of the parish clock ☺
+[2018-12-21, 2:59:55 PM] User 1: which boomed out every quarter of an hour 😯
+[2018-12-21, 2:59:55 PM] User 2: How long they seemed, those quarters! 😯
+[2018-12-21, 3:08:12 PM] User 1: ☺ Twelve struck,
+[2018-12-21, 3:08:26 PM] User 2: ‎video omitted
+[2018-12-21, 3:08:33 PM] User 2: Suddenly there was the momentary gleam of a light up in the direction of the ventilator ☹️
+[2018-12-21, 3:08:34 PM] User 1: , which vanished immediately 😄
+[2018-12-21, 3:09:04 PM] User 1: but was succeeded by a strong smell of burning oil and heated metal.
+[2018-12-21, 3:09:32 PM] User 2: Someone in the next room had lit a dark-lantern. 😭
+[2018-12-24, 4:57:26 AM] User 2: "'That you may get away, or perhaps that you may conceal what you have stolen,' said I. And then, realising the dreadful position in which I was placed, I implored him to remember that not only my honour but that of one who was far greater than I was at stake; and that he threatened to raise a scandal which would convulse the nation. He might avert it all if he would but tell me what he had done with the three missing stones.
+'You may as well face the matter,' said I; 'you have been caught in the act, and no confession could make your guilt more heinous. If you but make such reparation as is in your power, by telling us where the beryls are, all shall be forgiven and forgotten.'"
+[2018-12-24, 4:57:27 AM] User 2: 'Keep your forgiveness for those who ask for it,' he answered, turning away from me with a sneer. I saw that he was too hardened for any words of mine to influence him. There was but one way for it. I called in the inspector and gave him into custody. A search was made at once not only of his person but of his room and of every portion of the house where he could possibly have concealed the gems; but no trace of them could be found, nor would the wretched boy open his mouth for all our persuasions and our threats. This morning he was removed to a cell, and I, after going through all the police formalities, have hurried round to you to implore you to use your skill in unravelling the matter. The police have openly confessed that they can at present make nothing of it. You may go to any expense which you think necessary. I have already offered a reward of 1000 pounds. My God, what shall I do! I have lost my honour, my gems, and my son in one night. Oh, what shall I do!
+[2018-12-24, 4:57:33 AM] User 1: He put a hand on either side of his head and rocked himself to and fro, droning to himself like a child whose grief has got beyond words.
+[2018-12-24, 4:59:42 AM] User 2: Sherlock Holmes sat silent for some few minutes, with his brows knitted and his eyes fixed upon the fire.
+[2018-12-24, 4:59:43 AM] User 1: Do you receive much company? he asked.
+[2018-12-24, 4:59:44 AM] User 1: None save my partner with his family and an occasional friend of Arthur's. Sir George Burnwell has been several times lately. No one else, I think.
+[2018-12-24, 4:59:44 AM] User 1: Do you go out much in society?
+[2018-12-24, 4:59:45 AM] User 1: I noted, in passing, that she had written a note before leaving home but after being fully dressed. You observed that her right glove was torn at the forefinger, but you did not apparently see that both glove and finger were stained with violet ink. She had written in a hurry and dipped her pen too deep. It must have been this morning, or the mark would not remain clear upon the finger. All this is amusing, though rather elementary, but I must go back to business, Watson. Would you mind reading me the advertised description of Mr. Hosmer Angel?
+[2018-12-24, 4:59:46 AM] User 2: I held the little printed slip to the light.
+[2018-12-24, 4:59:46 AM] User 2: Missing, it said, "on the morning of the fourteenth, a gentleman named Hosmer Angel. About five ft. seven in. in height; strongly built, sallow complexion, black hair, a little bald in the centre, bushy, black side-whiskers and moustache; tinted glasses, slight infirmity of speech. Was dressed, when last seen, in black frock-coat faced with silk, black waistcoat, gold Albert chain, and grey Harris tweed trousers, with brown gaiters over elastic-sided boots. Known to have been employed in an office in Leadenhall Street. Anybody bringing--"
+[2018-12-24, 4:59:47 AM] User 2: That will do, said Holmes. "As to the letters," he continued, glancing over them, "they are very commonplace. Absolutely no clue in them to Mr. Angel, save that he quotes Balzac once. There is one remarkable point, however, which will no doubt strike you."
+[2018-12-24, 4:59:47 AM] User 2: They are typewritten, I remarked.
+[2018-12-24, 4:59:53 AM] User 1: Not only that, but the signature is typewritten. Look at the neat little 'Hosmer Angel' at the bottom. There is a date, you see, but no superscription except Leadenhall Street, which is rather vague. The point about the signature is very suggestive--in fact, we may call it conclusive.
+[2018-12-27, 12:51:13 PM] User 1: I had had so many reasons to believe in my friend's subtle powers of reasoning and extraordinary energy in action that I felt that he must have some solid grounds for the assured and easy demeanour with which he treated the singular mystery which he had been called upon to fathom. Once only had I known him to fail, in the case of the King of Bohemia and of the Irene Adler photograph; but when I looked back to the weird business of the Sign of Four, and the extraordinary circumstances connected with the Study in Scarlet, I felt that it would be a strange tangle indeed which he could not unravel.
+[2018-12-27, 12:52:13 PM] User 1: I left him then, still puffing at his black clay pipe, with the conviction that when I came again on the next evening I would find that he held in his hands all the clues which would lead up to the identity of the disappearing bridegroom of Miss Mary Sutherland.
+[2018-12-27, 12:52:13 PM] User 1: A professional case of great gravity was engaging my own attention at the time, and the whole of next day I was busy at the bedside of the sufferer. It was not until close upon six o'clock that I found myself free and was able to spring into a hansom and drive to Baker Street, half afraid that I might be too late to assist at the dénouement of the little mystery. I found Sherlock Holmes alone, however, half asleep, with his long, thin form curled up in the recesses of his armchair. A formidable array of bottles and test-tubes, with the pungent cleanly smell of hydrochloric acid, told me that he had spent his day in the chemical work which was so dear to him.
+[2018-12-27, 12:52:13 PM] User 1: Well, have you solved it? I asked as I entered.
+[2018-12-27, 12:53:13 PM] User 2: Yes. It was the bisulphate of baryta.
+[2018-12-27, 1:57:13 PM] User 2: No, no, the mystery! I cried.
+[2018-12-27, 2:57:13 PM] User 2: Oh, that! I thought of the salt that I have been working upon. There was never any mystery in the matter, though, as I said yesterday, some of the details are of interest. The only drawback is that there is no law, I fear, that can touch the scoundrel.
+[2018-12-27, 3:57:13 PM] User 1: Who was he, then, and what was his object in deserting Miss Sutherland?
+[2018-12-27, 4:57:13 PM] User 1: The question was hardly out of my mouth, and Holmes had not yet opened his lips to reply, when we heard a heavy footfall in the passage and a tap at the door.
+[2018-12-27, 5:57:13 PM] User 1: This is the girl's stepfather, Mr. James Windibank, said Holmes. "He has written to me to say that he would be here at six. Come in!"
+[2018-12-27, 5:59:13 PM] User 1: The man who entered was a sturdy, middle-sized fellow, some thirty years of age, clean-shaven, and sallow-skinned, with a bland, insinuating manner, and a pair of wonderfully sharp and penetrating grey eyes. He shot a questioning glance at each of us, placed his shiny top-hat upon the sideboard, and with a slight bow sidled down into the nearest chair.
+[2018-12-27, 6:57:13 PM] User 1: Good-evening, Mr. James Windibank, said Holmes. "I think that this typewritten letter is from you, in which you made an appointment with me for six o'clock?"
+[2018-12-27, 6:57:13 PM] User 2: Yes, sir. I am afraid that I am a little late, but I am not quite my own master, you know. I am sorry that Miss Sutherland has troubled you about this little matter, for I think it is far better not to wash linen of the sort in public. It was quite against my wishes that she came, but she is a very excitable, impulsive girl, as you may have noticed, and she is not easily controlled when she has made up her mind on a point. Of course, I did not mind you so much, as you are not connected with the official police, but it is not pleasant to have a family misfortune like this noised abroad. Besides, it is a useless expense, for how could you possibly find this Hosmer Angel?
+[2018-12-27, 6:58:13 PM] User 1: On the contrary, said Holmes quietly; "I have every reason to believe that I will succeed in discovering Mr. Hosmer Angel."
+[2018-12-27, 7:57:13 PM] User 2: Mr. Windibank gave a violent start and dropped his gloves. "I am delighted to hear it," he said.
+[2018-12-27, 7:57:13 PM] User 2: It is a curious thing, remarked Holmes, "that a typewriter has really quite as much individuality as a man's handwriting. Unless they are quite new, no two of them write exactly alike. Some letters get more worn than others, and some wear only on one side. Now, you remark in this note of yours, Mr. Windibank, that in every case there is some little slurring over of the 'e,' and a slight defect in the tail of the 'r.' There are fourteen other characteristics, but those are the more obvious."
+[2018-12-27, 7:58:13 PM] User 1: We do all our correspondence with this machine at the office, and no doubt it is a little worn, our visitor answered, glancing keenly at Holmes with his bright little eyes.
+[2018-12-29, 11:52:54 AM] User 1: From outside came the occasional cry of a night-bird
+‎[2018-12-30, 11:26:27 PM] User 2: I cannot say that I do unless it were that he wished to be able to deny his signature if an action for breach of promise were instituted.
+‎[2018-12-30, 11:26:28 PM] User 2: No, that was not the point. However, I shall write two letters, which should settle the matter. One is to a firm in the City, the other is to the young lady's stepfather, Mr. Windibank, asking him whether he could meet us here at six o'clock tomorrow evening. It is just as well that we should do business with the male relatives. And now, Doctor, we can do nothing until the answers to those letters come, so we may put our little problem upon the shelf for the interim.
+‎[2018-12-30, 11:26:28 PM] User 2: I had had so many reasons to believe in my friend's subtle powers of reasoning and extraordinary energy in action that I felt that he must have some solid grounds for the assured and easy demeanour with which he treated the singular mystery which he had been called upon to fathom. Once only had I known him to fail, in the case of the King of Bohemia and of the Irene Adler photograph; but when I looked back to the weird business of the Sign of Four, and the extraordinary circumstances connected with the Study in Scarlet, I felt that it would be a strange tangle indeed which he could not unravel.
+‎[2018-12-30, 11:26:29 PM] User 1: I left him then, still puffing at his black clay pipe, with the conviction that when I came again on the next evening I would find that he held in his hands all the clues which would lead up to the identity of the disappearing bridegroom of Miss Mary Sutherland.
+‎[2018-12-30, 11:26:29 PM] User 1: A professional case of great gravity was engaging my own attention at the time, and the whole of next day I was busy at the bedside of the sufferer. It was not until close upon six o'clock that I found myself free and was able to spring into a hansom and drive to Baker Street, half afraid that I might be too late to assist at the dénouement of the little mystery. I found Sherlock Holmes alone, however, half asleep, with his long, thin form curled up in the recesses of his armchair. A formidable array of bottles and test-tubes, with the pungent cleanly smell of hydrochloric acid, told me that he had spent his day in the chemical work which was so dear to him.
+‎[2018-12-30, 11:26:30 PM] User 1: Well, have you solved it? I asked as I entered.
+‎[2019-01-01, 8:40:55 AM] User 2: Yes. It was the bisulphate of baryta.
+‎[2019-01-01, 8:40:55 AM] User 1: No, no, the mystery! I cried.
+‎[2019-01-01, 8:40:56 AM] User 2: Oh, that! I thought of the salt that I have been working upon. There was never any mystery in the matter, though, as I said yesterday, some of the details are of interest. The only drawback is that there is no law, I fear, that can touch the scoundrel.
+‎[2019-01-01, 8:40:56 AM] User 2: Who was he, then, and what was his object in deserting Miss Sutherland?
+‎[2019-01-01, 8:40:57 AM] User 1: The question was hardly out of my mouth, and Holmes had not yet opened his lips to reply, when we heard a heavy footfall in the passage and a tap at the door.
+‎[2019-01-01, 8:40:57 AM] User 1: This is the girl's stepfather, Mr. James Windibank, said Holmes. "He has written to me to say that he would be here at six. Come in!"
+‎[2019-01-01, 8:40:58 AM] User 2: The man who entered was a sturdy, middle-sized fellow, some thirty years of age, clean-shaven, and sallow-skinned, with a bland, insinuating manner, and a pair of wonderfully sharp and penetrating grey eyes. He shot a questioning glance at each of us, placed his shiny top-hat upon the sideboard, and with a slight bow sidled down into the nearest chair.
+‎[2019-01-01, 8:40:58 AM] User 1: Good-evening, Mr. James Windibank, said Holmes. "I think that this typewritten letter is from you, in which you made an appointment with me for six o'clock?"
+‎[2019-01-01, 8:40:59 AM] User 1: Yes, sir. I am afraid that I am a little late, but I am not quite my own master, you know. I am sorry that Miss Sutherland has troubled you about this little matter, for I think it is far better not to wash linen of the sort in public. It was quite against my wishes that she came, but she is a very excitable, impulsive girl, as you may have noticed, and she is not easily controlled when she has made up her mind on a point. Of course, I did not mind you so much, as you are not connected with the official police, but it is not pleasant to have a family misfortune like this noised abroad. Besides, it is a useless expense, for how could you possibly find this Hosmer Angel?
+‎[2019-01-01, 8:40:59 AM] User 2: On the contrary, said Holmes quietly; "I have every reason to believe that I will succeed in discovering Mr. Hosmer Angel."
+‎[2019-01-01, 8:41:00 AM] User 2: Mr. Windibank gave a violent start and dropped his gloves. "I am delighted to hear it," he said.
+‎[2019-01-01, 8:41:00 AM] User 2: It is a curious thing, remarked Holmes, "that a typewriter has really quite as much individuality as a man's handwriting. Unless they are quite new, no two of them write exactly alike. Some letters get more worn than others, and some wear only on one side. Now, you remark in this note of yours, Mr. Windibank, that in every case there is some little slurring over of the 'e,' and a slight defect in the tail of the 'r.' There are fourteen other characteristics, but those are the more obvious."
+‎[2019-01-01, 8:41:01 AM] User 1: We do all our correspondence with this machine at the office, and no doubt it is a little worn, our visitor answered, glancing keenly at Holmes with his bright little eyes.
+‎[2019-01-01, 8:41:01 AM] User 2: From outside came the occasional cry of a night-bird
+‎[2019-01-01, 8:41:02 AM] User 1: and lool lool lool lool once at our very window a long drawn catlike whine 😯😯😯
+‎[2019-01-01, 8:41:03 AM] User 1: \ which told us that the cheetah was indeed at liberty.
+‎[2019-01-01, 8:41:03 AM] User 1: hah lmaoooo wooowww
+‎[2019-01-01, 8:41:04 AM] User 2: "Very likely not. It is most important, all the same. As to the note, it is important also, or at least the initials are, so I congratulate you again."
+‎[2019-01-01, 8:41:04 AM] User 1: "I've wasted time enough," said Lestrade, rising. "I believe in hard work and not in sitting by the fire spinning fine theories. Good-day, Mr. Holmes, and we shall see which gets to the bottom of the matter first." He gathered up the garments, thrust them into the bag, and made for the door.
+‎[2019-01-01, 8:41:05 AM] User 2: "Just one hint to you, Lestrade," drawled Holmes before his rival vanished; "I will tell you the true solution of the matter. Lady St. Simon is a myth. There is not, and there never has been, any such person."
+‎[2019-01-01, 8:41:05 AM] User 2: Lestrade looked sadly at my companion. Then he turned to me, tapped his forehead three times, shook his head solemnly, and hurried away.
+‎[2019-01-01, 8:41:06 AM] User 1: He had hardly shut the door behind him when Holmes rose to put on his overcoat. "There is something in what the fellow says about outdoor work," he remarked, "so I think, Watson, that I must leave you to your papers for a little."
+‎[2019-01-01, 8:41:06 AM] User 1: It was after five o'clock when Sherlock Holmes left me, but I had no time to be lonely, for within an hour there arrived a confectioner's man with a very large flat box. This he unpacked with the help of a youth whom he had brought with him, and presently, to my very great astonishment, a quite epicurean little cold supper began to be laid out upon our humble lodging-house mahogany. There were a couple of brace of cold woodcock, a pheasant, a pâté de foie gras pie with a group of ancient and cobwebby bottles. Having laid out all these luxuries, my two visitors vanished away, like the genii of the Arabian Nights, with no explanation save that the things had been paid for and were ordered to this address.
+‎[2019-01-01, 8:41:07 AM] User 2: Just before nine o'clock Sherlock Holmes stepped briskly into the room. His features were gravely set, but there was a light in his eye which made me think that he had not been disappointed in his conclusions.
+‎[2019-01-01, 8:41:07 AM] User 2: "They have laid the supper, then," he said, rubbing his hands.
+‎[2019-01-01, 8:41:08 AM] User 2: "You seem to expect company. They have laid for five."
+‎[2019-01-01, 8:41:08 AM] User 1: "Yes, I fancy we may have some company dropping in," said he. "I am surprised that Lord St. Simon has not already arrived. Ha! I fancy that I hear his step now upon the stairs."
+‎[2019-01-01, 8:41:09 AM] User 1: It was indeed our visitor of the afternoon who came bustling in, dangling his glasses more vigorously than ever, and with a very perturbed expression upon his aristocratic features.
+‎[2019-01-01, 8:41:09 AM] User 1: "My messenger reached you, then?" asked Holmes.
+‎[2019-01-01, 8:41:10 AM] User 2: "Yes, and I confess that the contents startled me beyond measure. Have you good authority for what you say?"
+‎[2019-01-01, 8:41:25 AM] User 1: "The best possible."
+‎[2019-01-01, 8:41:26 AM] User 2: Lord St. Simon sank into a chair and passed his hand over his forehead.
+‎[2019-01-01, 8:41:26 AM] User 2: "What will the Duke say," he murmured, "when he hears that one of the family has been subjected to such humiliation?"
+‎[2019-01-01, 8:41:27 AM] User 1: "It is the purest accident. I cannot allow that there is any humiliation."
+‎[2019-01-01, 8:41:28 AM] User 1: "Ah, you look on these things from another standpoint."
+‎[2019-01-01, 8:41:28 AM] User 2: "It was a slight, sir, a public slight," said Lord St. Simon, tapping his fingers upon the table.
+‎[2019-01-01, 8:41:29 AM] User 1: "You must make allowance for this poor girl, placed in so unprecedented a position."
+‎[2019-01-01, 8:41:29 AM] User 1: "I will make no allowance. I am very angry indeed, and I have been shamefully used."
+‎[2019-01-01, 8:41:30 AM] User 2: "I think that I heard a ring," said Holmes. "Yes, there are steps on the landing. If I cannot persuade you to take a lenient view of the matter, Lord St. Simon, I have brought an advocate here who may be more successful." He opened the door and ushered in a lady and gentleman. "Lord St. Simon," said he "allow me to introduce you to Mr. and Mrs. Francis Hay Moulton. The lady, I think, you have already met."
+‎[2019-01-01, 8:41:30 AM] User 2: At the sight of these newcomers our client had sprung from his seat and stood very erect, with his eyes cast down and his hand thrust into the breast of his frock-coat, a picture of offended dignity. The lady had taken a quick step forward and had held out her hand to him, but he still refused to raise his eyes. It was as well for his resolution, perhaps, for her pleading face was one which it was hard to resist.
+‎[2019-01-01, 8:41:31 AM] User 2: "You're angry, Robert," said she. "Well, I guess you have every cause to be."
+‎[2019-01-01, 8:41:31 AM] User 1: I could, however, see that his face was deadly pale and filled with horror and loathing 😭😭😭
+‎[2019-01-01, 8:41:32 AM] User 2: https://towardsdatascience.com/an-introduction-to-tweettokenizer-for-processing-tweets-9879389f8fe7
+‎[2019-01-01, 8:41:32 AM] User 1: ‎Messages to this chat and calls are now secured with end-to-end encryption.
+‎[2019-01-01, 8:41:33 AM] User 1: From outside came the occasional cry of a night-bird
+‎[2019-01-01, 8:41:33 AM] User 1: and lool lool lool lool once at our very window a long drawn catlike whine 😯😯😯
+‎[2019-01-01, 8:41:34 AM] User 1: \ which told us that the cheetah was indeed at liberty.
+‎[2019-01-01, 8:41:35 AM] User 2: hah lmaoooo wooowww
+‎[2019-01-01, 8:41:35 AM] User 1: 😯 Far away we could hear the deep tones of the parish clock ☺
+‎[2019-01-01, 8:41:36 AM] User 2: which boomed out every quarter of an hour 😯
+‎[2019-01-01, 8:41:36 AM] User 2: How long they seemed, those quarters! 😯
+‎[2019-01-01, 8:41:37 AM] User 1: ☺ Twelve struck,
+‎[2019-01-01, 8:41:37 AM] User 1: ‎video omitted
+‎[2019-01-01, 8:41:38 AM] User 2: Suddenly there was the momentary gleam of a light up in the direction of the ventilator ☹️
+‎[2019-01-01, 8:41:38 AM] User 2: , which vanished immediately 😄
+‎[2019-01-01, 8:41:39 AM] User 2: but was succeeded by a strong smell of burning oil and heated metal.
+‎[2019-01-01, 8:41:39 AM] User 2: Someone in the next room had lit a dark-lantern. 😭
+‎[2019-01-01, 8:41:39 AM] User 2: 😭
+‎[2019-01-01, 8:41:40 AM] User 1: I heard a gentle sound of movement, 😆
+‎[2019-01-01, 8:41:40 AM] User 1: and then all was silent once more, though the smell grew stronger.  👀
+‎[2019-01-01, 8:41:40 AM] User 2: For half an hour I sat with straining ears. 😯
+‎[2019-01-01, 8:41:40 AM] User 1: Then suddenly another sound became audible 😯
+‎[2019-01-01, 8:41:41 AM] User 1: ha hah haha lmao lmaooo lmaoo 😯
+‎[2019-01-01, 8:41:41 AM] User 1: --a very gentle, soothing sound, like that of a small jet of steam escaping continually from a kettle
+‎[2019-01-01, 8:41:41 AM] User 2: The instant that we heard it, Holmes sprang from the bed 😭
+‎[2019-01-01, 8:41:42 AM] User 2: 😭
+‎[2019-01-01, 8:41:43 AM] User 1: struck a match, and lashed furiously with his cane at the bell-pull. 😆
+‎[2019-01-01, 8:41:43 AM] User 1: 😯👀
+‎[2019-01-01, 8:41:44 AM] User 2: "You see it, Watson?" he yelled. "You see it?"
+‎[2019-01-01, 8:41:44 AM] User 2: But I saw nothing lmaoo. 😯
+‎[2019-01-01, 8:41:45 AM] User 2: ‎image omitted
+‎[2019-01-01, 8:41:45 AM] User 1: At the moment when Holmes struck the light I heard a low, clear whistle
+‎[2019-01-01, 8:41:46 AM] User 1: lool but the sudden glare lool lool flashing into my weary eyes lool
+‎[2019-01-01, 8:41:46 AM] User 1: I could, however, see that his face was deadly pale and filled with horror and loathing 😭😭😭
+‎[2019-01-01, 10:58:49 AM] User 2: https://towardsdatascience.com/an-introduction-to-tweettokenizer-for-processing-tweets-9879389f8fe7
+‎[2019-01-01, 11:01:16 AM] User 1: ‎Messages to this chat and calls are now secured with end-to-end encryption.
+‎[2019-01-01, 11:01:17 AM] User 2: From outside came the occasional cry of a night-bird
+‎[2019-01-01, 11:01:17 AM] User 1: and lool lool lool lool once at our very window a long drawn catlike whine 😯😯😯
+‎[2019-01-01, 11:01:17 AM] User 2: \ which told us that the cheetah was indeed at liberty.
+‎[2019-01-01, 11:01:18 AM] User 2: hah lmaoooo wooowww
+‎[2019-01-01, 11:01:18 AM] User 2: "Very likely not. It is most important, all the same. As to the note, it is important also, or at least the initials are, so I congratulate you again."
+‎[2019-01-01, 11:02:06 AM] User 1: "I've wasted time enough," said Lestrade, rising. "I believe in hard work and not in sitting by the fire spinning fine theories. Good-day, Mr. Holmes, and we shall see which gets to the bottom of the matter first." He gathered up the garments, thrust them into the bag, and made for the door.
+‎[2019-01-01, 11:02:07 AM] User 1: "Just one hint to you, Lestrade," drawled Holmes before his rival vanished; "I will tell you the true solution of the matter. Lady St. Simon is a myth. There is not, and there never has been, any such person."
+‎[2019-01-01, 11:02:08 AM] User 1: Lestrade looked sadly at my companion. Then he turned to me, tapped his forehead three times, shook his head solemnly, and hurried away.
+‎[2019-01-01, 11:02:08 AM] User 2: He had hardly shut the door behind him when Holmes rose to put on his overcoat. "There is something in what the fellow says about outdoor work," he remarked, "so I think, Watson, that I must leave you to your papers for a little."
+‎[2019-01-01, 11:02:09 AM] User 1: It was after five o'clock when Sherlock Holmes left me, but I had no time to be lonely, for within an hour there arrived a confectioner's man with a very large flat box. This he unpacked with the help of a youth whom he had brought with him, and presently, to my very great astonishment, a quite epicurean little cold supper began to be laid out upon our humble lodging-house mahogany. There were a couple of brace of cold woodcock, a pheasant, a pâté de foie gras pie with a group of ancient and cobwebby bottles. Having laid out all these luxuries, my two visitors vanished away, like the genii of the Arabian Nights, with no explanation save that the things had been paid for and were ordered to this address.
+‎[2019-01-01, 11:02:09 AM] User 2: Just before nine o'clock Sherlock Holmes stepped briskly into the room. His features were gravely set, but there was a light in his eye which made me think that he had not been disappointed in his conclusions.
+[2019-01-02, 11:28:51 AM] User 2: "They have laid the supper, then," he said, rubbing his hands.
+‎[2019-01-02, 1:48:16 PM] User 1: "You seem to expect company. They have laid for five."
+‎[2019-01-02, 1:48:16 PM] User 1: "Yes, I fancy we may have some company dropping in," said he. "I am surprised that Lord St. Simon has not already arrived. Ha! I fancy that I hear his step now upon the stairs."
+‎[2019-01-02, 1:48:17 PM] User 2: It was indeed our visitor of the afternoon who came bustling in, dangling his glasses more vigorously than ever, and with a very perturbed expression upon his aristocratic features.
+‎[2019-01-02, 1:48:17 PM] User 2: "My messenger reached you, then?" asked Holmes.
+‎[2019-01-02, 1:48:18 PM] User 2: "Yes, and I confess that the contents startled me beyond measure. Have you good authority for what you say?"
+‎[2019-01-02, 1:48:18 PM] User 1: "The best possible."
+‎[2019-01-02, 1:48:19 PM] User 2: Lord St. Simon sank into a chair and passed his hand over his forehead.
+‎[2019-01-02, 1:48:20 PM] User 1: "What will the Duke say," he murmured, "when he hears that one of the family has been subjected to such humiliation?"
+‎[2019-01-02, 1:48:20 PM] User 1: "It is the purest accident. I cannot allow that there is any humiliation."
+‎[2019-01-02, 1:48:21 PM] User 1: "Ah, you look on these things from another standpoint."
+‎[2019-01-02, 1:48:21 PM] User 1: "It was a slight, sir, a public slight," said Lord St. Simon, tapping his fingers upon the table.
+‎[2019-01-02, 1:48:22 PM] User 2: "You must make allowance for this poor girl, placed in so unprecedented a position."
+‎[2019-01-02, 1:48:22 PM] User 2: "I will make no allowance. I am very angry indeed, and I have been shamefully used."
+‎[2019-01-02, 1:50:12 PM] User 2: "I think that I heard a ring," said Holmes. "Yes, there are steps on the landing. If I cannot persuade you to take a lenient view of the matter, Lord St. Simon, I have brought an advocate here who may be more successful." He opened the door and ushered in a lady and gentleman. "Lord St. Simon," said he "allow me to introduce you to Mr. and Mrs. Francis Hay Moulton. The lady, I think, you have already met."
+‎[2019-01-02, 1:50:13 PM] User 2: At the sight of these newcomers our client had sprung from his seat and stood very erect, with his eyes cast down and his hand thrust into the breast of his frock-coat, a picture of offended dignity. The lady had taken a quick step forward and had held out her hand to him, but he still refused to raise his eyes. It was as well for his resolution, perhaps, for her pleading face was one which it was hard to resist.
+‎[2019-01-02, 1:50:14 PM] User 1: "You're angry, Robert," said she. "Well, I guess you have every cause to be."
+‎[2019-01-02, 1:50:15 PM] User 1: "Pray make no apology to me," said Lord St. Simon bitterly.
+‎[2019-01-02, 1:50:16 PM] User 1: "Oh, yes, I know that I have treated you real bad and that I should have spoken to you before I went; but I was kind of rattled, and from the time when I saw Frank here again I just didn't know what I was doing or saying. I only wonder I didn't fall down and do a faint right there before the altar."
+‎[2019-01-02, 1:50:17 PM] User 1: "Perhaps, Mrs. Moulton, you would like my friend and me to leave the room while you explain this matter?"
+‎[2019-01-02, 1:50:18 PM] User 1: "If I may give an opinion," remarked the strange gentleman, "we've had just a little too much secrecy over this business already. For my part, I should like all Europe and America to hear the rights of it." He was a small, wiry, sunburnt man, clean-shaven, with a sharp face and alert manner.
+‎[2019-01-02, 1:50:18 PM] User 2: "Then I'll tell our story right away," said the lady. "Frank here and I met in '84, in McQuire's camp, near the Rockies, where pa was working a claim. We were engaged to each other, Frank and I; but then one day father struck a rich pocket and made a pile, while poor Frank here had a claim that petered out and came to nothing. The richer pa grew the poorer was Frank; so at last pa wouldn't hear of our engagement lasting any longer, and he took me away to 'Frisco. Frank wouldn't throw up his hand, though; so he followed me there, and he saw me without pa knowing anything about it. It would only have made him mad to know, so we just fixed it all up for ourselves. Frank said that he would go and make his pile, too, and never come back to claim me until he had as much as pa. So then I promised to wait for him to the end of time and pledged myself not to marry anyone else while he lived. 'Why shouldn't we be married right away, then,' said he, 'and then I will feel sure of you; and I won't claim to be your husband until I come back?' Well, we talked it over, and he had fixed it all up so nicely, with a clergyman all ready in waiting, that we just did it right there; and then Frank went off to seek his fortune, and I went back to pa.
+‎[2019-01-02, 1:50:19 PM] User 2: ‎video omitted
+‎[2019-01-02, 1:52:04 PM] User 2: Suddenly there was the momentary gleam of a light up in the direction of the ventilator ☹️
+‎[2019-01-02, 1:52:08 PM] User 1: , which vanished immediately 😄
+‎[2019-01-02, 1:52:10 PM] User 1: but was succeeded by a strong smell of burning oil and heated metal.
+‎[2019-01-02, 1:52:13 PM] User 1: Someone in the next room had lit a dark-lantern. 😭
+‎[2019-01-02, 1:52:16 PM] User 1: 😭
+‎[2019-01-02, 1:52:16 PM] User 1: I heard a gentle sound of movement, 😆
+‎[2019-01-02, 1:52:17 PM] User 2: and then all was silent once more, though the smell grew stronger.  👀
+‎[2019-01-02, 1:52:18 PM] User 1: For half an hour I sat with straining ears. 😯
+‎[2019-01-02, 1:52:19 PM] User 2: Then suddenly another sound became audible 😯
+‎[2019-01-02, 1:52:20 PM] User 2: ha hah haha lmao lmaooo lmaoo 😯
+‎[2019-01-02, 1:52:22 PM] User 1: --a very gentle, soothing sound, like that of a small jet of steam escaping continually from a kettle
+‎[2019-01-02, 1:52:22 PM] User 1: The instant that we heard it, Holmes sprang from the bed 😭
+‎[2019-01-02, 1:52:23 PM] User 2: 😭
+‎[2019-01-02, 1:52:24 PM] User 2: struck a match, and lashed furiously with his cane at the bell-pull. 😆
+‎[2019-01-02, 1:52:25 PM] User 2: 😯👀
+‎[2019-01-02, 1:52:26 PM] User 1: "You see it, Watson?" he yelled. "You see it?"
+‎[2019-01-02, 1:53:29 PM] User 1: But I saw nothing lmaoo. 😯
+‎[2019-01-02, 1:53:33 PM] User 1: ‎image omitted
+‎[2019-01-02, 1:53:37 PM] User 2: At the moment when Holmes struck the light I heard a low, clear whistle
+‎[2019-01-02, 1:53:41 PM] User 1: lool but the sudden glare lool lool flashing into my weary eyes lool
+‎[2019-01-02, 1:53:53 PM] User 2: 😯👀
+‎[2019-01-02, 1:53:59 PM] User 2: I could, however, see that his face was deadly pale and filled with horror and loathing 😭😭😭
+‎[2019-01-02, 1:54:30 PM] User 1: https://towardsdatascience.com/an-introduction-to-tweettokenizer-for-processing-tweets-9879389f8fe7
+‎[2019-01-02, 1:54:31 PM] User 1: ‎Messages to this chat and calls are now secured with end-to-end encryption.
+‎[2019-01-02, 1:54:32 PM] User 2: From outside came the occasional cry of a night-bird
+‎[2019-01-02, 1:54:33 PM] User 1: and lool lool lool lool once at our very window a long drawn catlike whine 😯😯😯
+‎[2019-01-02, 1:54:54 PM] User 1: \ which told us that the cheetah was indeed at liberty.
+‎[2019-01-02, 1:55:34 PM] User 2: hah lmaoooo wooowww
+‎[2019-01-02, 1:55:37 PM] User 2: 😯 Far away we could hear the deep tones of the parish clock ☺
+‎[2019-01-02, 1:55:37 PM] User 2: which boomed out every quarter of an hour 😯
+‎[2019-01-02, 1:55:41 PM] User 1: How long they seemed, those quarters! 😯
+‎[2019-01-02, 1:55:47 PM] User 2: ☺ Twelve struck,
+‎[2019-01-02, 1:55:48 PM] User 1: ‎video omitted
+‎[2019-01-02, 1:55:49 PM] User 1: Suddenly there was the momentary gleam of a light up in the direction of the ventilator ☹️
+[2019-01-04, 4:30:41 AM] User 1: , which vanished immediately 😄
+[2019-01-04, 6:13:56 PM] User 2: but was succeeded by a strong smell of burning oil and heated metal.
+[2019-01-04, 6:14:57 PM] User 1: Someone in the next room had lit a dark-lantern. 😭
+[2019-01-04, 6:15:38 PM] User 2: "'That you may get away, or perhaps that you may conceal what you have stolen,' said I. And then, realising the dreadful position in which I was placed, I implored him to remember that not only my honour but that of one who was far greater than I was at stake; and that he threatened to raise a scandal which would convulse the nation. He might avert it all if he would but tell me what he had done with the three missing stones.
+'You may as well face the matter,' said I; 'you have been caught in the act, and no confession could make your guilt more heinous. If you but make such reparation as is in your power, by telling us where the beryls are, all shall be forgiven and forgotten.'"
+[2019-01-04, 6:15:43 PM] User 2: 'Keep your forgiveness for those who ask for it,' he answered, turning away from me with a sneer. I saw that he was too hardened for any words of mine to influence him. There was but one way for it. I called in the inspector and gave him into custody. A search was made at once not only of his person but of his room and of every portion of the house where he could possibly have concealed the gems; but no trace of them could be found, nor would the wretched boy open his mouth for all our persuasions and our threats. This morning he was removed to a cell, and I, after going through all the police formalities, have hurried round to you to implore you to use your skill in unravelling the matter. The police have openly confessed that they can at present make nothing of it. You may go to any expense which you think necessary. I have already offered a reward of 1000 pounds. My God, what shall I do! I have lost my honour, my gems, and my son in one night. Oh, what shall I do!
+[2019-01-04, 6:16:10 PM] User 1: He put a hand on either side of his head and rocked himself to and fro, droning to himself like a child whose grief has got beyond words.
+[2019-01-04, 6:16:22 PM] User 1: Sherlock Holmes sat silent for some few minutes, with his brows knitted and his eyes fixed upon the fire.
+[2019-01-04, 6:16:41 PM] User 2: Do you receive much company? he asked.
+[2019-01-04, 6:16:42 PM] User 2: None save my partner with his family and an occasional friend of Arthur's. Sir George Burnwell has been several times lately. No one else, I think.
+[2019-01-04, 6:19:16 PM] User 2: Do you go out much in society?
+[2019-01-04, 6:19:51 PM] User 1: I noted, in passing, that she had written a note before leaving home but after being fully dressed. You observed that her right glove was torn at the forefinger, but you did not apparently see that both glove and finger were stained with violet ink. She had written in a hurry and dipped her pen too deep. It must have been this morning, or the mark would not remain clear upon the finger. All this is amusing, though rather elementary, but I must go back to business, Watson. Would you mind reading me the advertised description of Mr. Hosmer Angel?
+[2019-01-04, 6:19:56 PM] User 1: I held the little printed slip to the light.
+[2019-01-04, 6:20:15 PM] User 1: Missing, it said, "on the morning of the fourteenth, a gentleman named Hosmer Angel. About five ft. seven in. in height; strongly built, sallow complexion, black hair, a little bald in the centre, bushy, black side-whiskers and moustache; tinted glasses, slight infirmity of speech. Was dressed, when last seen, in black frock-coat faced with silk, black waistcoat, gold Albert chain, and grey Harris tweed trousers, with brown gaiters over elastic-sided boots. Known to have been employed in an office in Leadenhall Street. Anybody bringing--"
+[2019-01-04, 6:20:33 PM] User 2: That will do, said Holmes. "As to the letters," he continued, glancing over them, "they are very commonplace. Absolutely no clue in them to Mr. Angel, save that he quotes Balzac once. There is one remarkable point, however, which will no doubt strike you."
+[2019-01-04, 6:20:45 PM] User 1: They are typewritten, I remarked.
+[2019-01-04, 6:21:13 PM] User 2: Not only that, but the signature is typewritten. Look at the neat little 'Hosmer Angel' at the bottom. There is a date, you see, but no superscription except Leadenhall Street, which is rather vague. The point about the signature is very suggestive--in fact, we may call it conclusive.
+[2019-01-04, 6:21:20 PM] User 2: Of what?
+[2019-01-04, 6:21:26 PM] User 1: My dear fellow, is it possible you do not see how strongly it bears upon the case?
+[2019-01-04, 6:22:29 PM] User 1: I cannot say that I do unless it were that he wished to be able to deny his signature if an action for breach of promise were instituted.
+[2019-01-04, 6:23:20 PM] User 2: No, that was not the point. However, I shall write two letters, which should settle the matter. One is to a firm in the City, the other is to the young lady's stepfather, Mr. Windibank, asking him whether he could meet us here at six o'clock tomorrow evening. It is just as well that we should do business with the male relatives. And now, Doctor, we can do nothing until the answers to those letters come, so we may put our little problem upon the shelf for the interim.
+[2019-01-04, 6:23:30 PM] User 1: I had had so many reasons to believe in my friend's subtle powers of reasoning and extraordinary energy in action that I felt that he must have some solid grounds for the assured and easy demeanour with which he treated the singular mystery which he had been called upon to fathom. Once only had I known him to fail, in the case of the King of Bohemia and of the Irene Adler photograph; but when I looked back to the weird business of the Sign of Four, and the extraordinary circumstances connected with the Study in Scarlet, I felt that it would be a strange tangle indeed which he could not unravel.
+[2019-01-04, 6:23:43 PM] User 1: I left him then, still puffing at his black clay pipe, with the conviction that when I came again on the next evening I would find that he held in his hands all the clues which would lead up to the identity of the disappearing bridegroom of Miss Mary Sutherland.
+[2019-01-04, 6:23:46 PM] User 2: A professional case of great gravity was engaging my own attention at the time, and the whole of next day I was busy at the bedside of the sufferer. It was not until close upon six o'clock that I found myself free and was able to spring into a hansom and drive to Baker Street, half afraid that I might be too late to assist at the dénouement of the little mystery. I found Sherlock Holmes alone, however, half asleep, with his long, thin form curled up in the recesses of his armchair. A formidable array of bottles and test-tubes, with the pungent cleanly smell of hydrochloric acid, told me that he had spent his day in the chemical work which was so dear to him.
+[2019-01-04, 6:23:56 PM] User 2: Well, have you solved it? I asked as I entered.
+[2019-01-04, 6:23:58 PM] User 2: Yes. It was the bisulphate of baryta.
+[2019-01-04, 6:24:09 PM] User 1: No, no, the mystery! I cried.
+[2019-01-04, 6:24:48 PM] User 2: Oh, that! I thought of the salt that I have been working upon. There was never any mystery in the matter, though, as I said yesterday, some of the details are of interest. The only drawback is that there is no law, I fear, that can touch the scoundrel.
+[2019-01-04, 6:25:27 PM] User 1: Who was he, then, and what was his object in deserting Miss Sutherland?
+[2019-01-04, 6:25:45 PM] User 1: The question was hardly out of my mouth, and Holmes had not yet opened his lips to reply, when we heard a heavy footfall in the passage and a tap at the door.
+[2019-01-04, 6:26:07 PM] User 1: This is the girl's stepfather, Mr. James Windibank, said Holmes. "He has written to me to say that he would be here at six. Come in!"
+[2019-01-04, 6:26:16 PM] User 1: The man who entered was a sturdy, middle-sized fellow, some thirty years of age, clean-shaven, and sallow-skinned, with a bland, insinuating manner, and a pair of wonderfully sharp and penetrating grey eyes. He shot a questioning glance at each of us, placed his shiny top-hat upon the sideboard, and with a slight bow sidled down into the nearest chair.
+[2019-01-04, 6:26:23 PM] User 2: Good-evening, Mr. James Windibank, said Holmes. "I think that this typewritten letter is from you, in which you made an appointment with me for six o'clock?"
+[2019-01-04, 6:26:40 PM] User 1: Yes, sir. I am afraid that I am a little late, but I am not quite my own master, you know. I am sorry that Miss Sutherland has troubled you about this little matter, for I think it is far better not to wash linen of the sort in public. It was quite against my wishes that she came, but she is a very excitable, impulsive girl, as you may have noticed, and she is not easily controlled when she has made up her mind on a point. Of course, I did not mind you so much, as you are not connected with the official police, but it is not pleasant to have a family misfortune like this noised abroad. Besides, it is a useless expense, for how could you possibly find this Hosmer Angel?
+[2019-01-04, 6:26:43 PM] User 2: On the contrary, said Holmes quietly; "I have every reason to believe that I will succeed in discovering Mr. Hosmer Angel."
+[2019-01-04, 6:26:45 PM] User 2: Mr. Windibank gave a violent start and dropped his gloves. "I am delighted to hear it," he said.
+[2019-01-04, 6:26:49 PM] User 2: It is a curious thing, remarked Holmes, "that a typewriter has really quite as much individuality as a man's handwriting. Unless they are quite new, no two of them write exactly alike. Some letters get more worn than others, and some wear only on one side. Now, you remark in this note of yours, Mr. Windibank, that in every case there is some little slurring over of the 'e,' and a slight defect in the tail of the 'r.' There are fourteen other characteristics, but those are the more obvious."
+[2019-01-04, 6:26:56 PM] User 1: We do all our correspondence with this machine at the office, and no doubt it is a little worn, our visitor answered, glancing keenly at Holmes with his bright little eyes.
+[2019-01-04, 6:26:59 PM] User 1: From outside came the occasional cry of a night-bird
+[2019-01-04, 6:27:09 PM] User 2: and lool lool lool lool once at our very window a long drawn catlike whine 😯😯😯
+[2019-01-04, 6:27:16 PM] User 1: \ which told us that the cheetah was indeed at liberty.
+[2019-01-04, 6:27:20 PM] User 2: hah lmaoooo wooowww
+[2019-01-04, 6:27:25 PM] User 2: "Very likely not. It is most important, all the same. As to the note, it is important also, or at least the initials are, so I congratulate you again."
+[2019-01-05, 2:56:20 AM] User 1: "I've wasted time enough," said Lestrade, rising. "I believe in hard work and not in sitting by the fire spinning fine theories. Good-day, Mr. Holmes, and we shall see which gets to the bottom of the matter first." He gathered up the garments, thrust them into the bag, and made for the door.
+[2019-01-05, 2:56:40 AM] User 1: "Just one hint to you, Lestrade," drawled Holmes before his rival vanished; "I will tell you the true solution of the matter. Lady St. Simon is a myth. There is not, and there never has been, any such person."
+[2019-01-05, 3:06:28 AM] User 2: Lestrade looked sadly at my companion. Then he turned to me, tapped his forehead three times, shook his head solemnly, and hurried away.
+[2019-01-05, 3:07:07 AM] User 2: He had hardly shut the door behind him when Holmes rose to put on his overcoat. "There is something in what the fellow says about outdoor work," he remarked, "so I think, Watson, that I must leave you to your papers for a little."
+[2019-01-05, 3:07:08 AM] User 2: It was after five o'clock when Sherlock Holmes left me, but I had no time to be lonely, for within an hour there arrived a confectioner's man with a very large flat box. This he unpacked with the help of a youth whom he had brought with him, and presently, to my very great astonishment, a quite epicurean little cold supper began to be laid out upon our humble lodging-house mahogany. There were a couple of brace of cold woodcock, a pheasant, a pâté de foie gras pie with a group of ancient and cobwebby bottles. Having laid out all these luxuries, my two visitors vanished away, like the genii of the Arabian Nights, with no explanation save that the things had been paid for and were ordered to this address.
+[2019-01-05, 3:07:41 AM] User 2: Just before nine o'clock Sherlock Holmes stepped briskly into the room. His features were gravely set, but there was a light in his eye which made me think that he had not been disappointed in his conclusions.
+[2019-01-05, 3:07:43 AM] User 2: "They have laid the supper, then," he said, rubbing his hands.
+[2019-01-05, 3:11:26 AM] User 1: "You seem to expect company. They have laid for five."
+[2019-01-05, 3:11:39 AM] User 1: "Yes, I fancy we may have some company dropping in," said he. "I am surprised that Lord St. Simon has not already arrived. Ha! I fancy that I hear his step now upon the stairs."
+[2019-01-05, 3:11:40 AM] User 2: It was indeed our visitor of the afternoon who came bustling in, dangling his glasses more vigorously than ever, and with a very perturbed expression upon his aristocratic features.
+[2019-01-05, 3:23:57 AM] User 1: "My messenger reached you, then?" asked Holmes.
+[2019-01-05, 3:24:28 AM] User 1: "Yes, and I confess that the contents startled me beyond measure. Have you good authority for what you say?"
+[2019-01-05, 3:24:29 AM] User 1: "The best possible."
+[2019-01-05, 3:36:50 AM] User 2: Lord St. Simon sank into a chair and passed his hand over his forehead.
+[2019-01-05, 3:37:24 AM] User 2: "What will the Duke say," he murmured, "when he hears that one of the family has been subjected to such humiliation?"
+[2019-01-05, 3:39:01 AM] User 1: "It is the purest accident. I cannot allow that there is any humiliation."
+[2019-01-05, 3:39:37 AM] User 1: "Ah, you look on these things from another standpoint."
+[2019-01-05, 3:39:40 AM] User 2: "It was a slight, sir, a public slight," said Lord St. Simon, tapping his fingers upon the table.
+[2019-01-05, 3:51:40 AM] User 2: "You must make allowance for this poor girl, placed in so unprecedented a position."
+[2019-01-05, 3:51:49 AM] User 2: "I will make no allowance. I am very angry indeed, and I have been shamefully used."
+[2019-01-05, 3:52:15 AM] User 1: "I think that I heard a ring," said Holmes. "Yes, there are steps on the landing. If I cannot persuade you to take a lenient view of the matter, Lord St. Simon, I have brought an advocate here who may be more successful." He opened the door and ushered in a lady and gentleman. "Lord St. Simon," said he "allow me to introduce you to Mr. and Mrs. Francis Hay Moulton. The lady, I think, you have already met."
+[2019-01-05, 3:52:31 AM] User 1: At the sight of these newcomers our client had sprung from his seat and stood very erect, with his eyes cast down and his hand thrust into the breast of his frock-coat, a picture of offended dignity. The lady had taken a quick step forward and had held out her hand to him, but he still refused to raise his eyes. It was as well for his resolution, perhaps, for her pleading face was one which it was hard to resist.
+[2019-01-05, 3:52:32 AM] User 1: "You're angry, Robert," said she. "Well, I guess you have every cause to be."
+[2019-01-05, 6:01:27 AM] User 2: --a very gentle, soothing sound, like that of a small jet of steam escaping continually from a kettle
+[2019-01-05, 6:01:50 AM] User 1: The instant that we heard it, Holmes sprang from the bed 😭
+[2019-01-05, 6:02:16 AM] User 2: 😭
+[2019-01-05, 6:02:49 AM] User 2: struck a match, and lashed furiously with his cane at the bell-pull. 😆
+[2019-01-05, 6:02:52 AM] User 1: 😯👀
+[2019-01-05, 6:03:58 AM] User 1: "You see it, Watson?" he yelled. "You see it?"
+[2019-01-05, 6:04:19 AM] User 2: But I saw nothing lmaoo. 😯
+[2019-01-05, 6:04:19 AM] User 2: ‎image omitted
+[2019-01-05, 6:09:04 AM] User 2: At the moment when Holmes struck the light I heard a low, clear whistle
+[2019-01-05, 6:09:43 AM] User 1: lool but the sudden glare lool lool flashing into my weary eyes lool
+and still we sat waiting silently for whatever might befall..  
+[2019-01-05, 6:14:26 AM] User 1: I could, however, see that his face was deadly pale and filled with horror and loathing 😭😭😭
+[2019-01-05, 6:16:21 AM] User 1: https://towardsdatascience.com/an-introduction-to-tweettokenizer-for-processing-tweets-9879389f8fe7
+[2019-01-05, 6:16:25 AM] User 1: ‎Messages to this chat and calls are now secured with end-to-end encryption.
