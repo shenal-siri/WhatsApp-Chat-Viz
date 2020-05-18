@@ -4,9 +4,9 @@ import cairosvg
 # Length x Width for output PNG, in pixels
 OUTPUT_SIZE = 24
 
-# Load SNG input and PNG output directories
-dir_svg = os.path.join(os.getcwd(), "twemoji-gh-pages", "emojilib", "svg")
-dir_png = os.path.join(os.getcwd(), "twemoji-gh-pages", "emojilib", "png")
+# Load SVG input and PNG output directories
+dir_svg = os.path.join(os.getcwd(), "resources", "twemoji-gh-pages", "emojilib", "svg")
+dir_png = os.path.join(os.getcwd(), "resources", "twemoji-gh-pages", "emojilib", "png")
 
 
 # Loop through SVG files in folder and convert to PNG
