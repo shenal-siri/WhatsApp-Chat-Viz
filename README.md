@@ -8,7 +8,7 @@ This project is intended as a data visualization tool for 2-person WhatsApp chat
 4. (Optional) Modify the `Chat-History-User-Defined.ipynb` notebook to include any custom slang words / slang variants for the tool to consider as part of its text processing pipeline.
 5. Run all cells in the `Chat-History-Prototyping.ipynb` notebook.
 6. Run all cells in the `Chat-History-Report.ipynb` notebook.
-7. A standalone HTML report titled "Chat-History-Report" will be created in the top level directory.
+7. A standalone HTML report titled "Chat-History-Report" will be created in the top level directory. **[Click here](https://htmlpreview.github.io/?https://github.com/shenal-siri/WhatsApp-Chat-Viz/blob/master/Chat-History-Report.html) for a preview of this file.**
 
 ## Generating Artificial Chat Data
 Running `Script-Generate-Chat-Data-Fake.py` will create a 'chat.txt' file in the same style as a WhatsApp chat log exported form iOS. The same process for generating a report can then be followed as outlined in the **Instructions** section. The parameters for generating this artificial data can be modified in the script.
